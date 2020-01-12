@@ -1,0 +1,31 @@
+{
+    "projects": [
+        {
+            "name": "Endoso sobrecostes",
+            "sector": "Empresa eléctrica",
+            "salaries": {
+                "fullstack": 5000,
+                "backend": 4500,
+                "frontend": 0
+            }
+        },
+        {
+            "name": "Piedra negra",
+            "sector": "Instituciones Públicas",
+            "salaries": {
+                "fullstack": 4500,
+                "backend": 0,
+                "frontend": 1200
+            }
+        },
+        {
+            "name": "Banquio",
+            "sector": "Banca",
+            "salaries": {
+                "fullstack": 6000,
+                "backend": 5000,
+                "frontend": 1000
+            }
+        }
+    ]
+}

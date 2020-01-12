@@ -6,4 +6,5 @@ Al final terminó desvariando en esto.
 Cada nivel añade ciertas dificultades al enunciado anterior. La puedes resolver incrementalmente o ir directamente al nivel que te interese.
 
 * [Entry level](statements/entry-level.md)
+* [Mid level](statements/mid-level.md)
  
