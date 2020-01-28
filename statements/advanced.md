@@ -1,4 +1,4 @@
-# Mid level
+# Advanced level
 
 Una consultora cárnica 🍖 ha abierto unas nuevas oficinas en Barcelona para atraer a las empresas del sector IT y conseguir contratos. Las nuevas oficinas tienen una capacidad de 200 empleadas que en ningún concepto se pueden superar ya que es muy difícil engañar a las inspecciones de trabajo 🕵 con este tema.
 Han decidido ir en busca de incautos y han fichado a 50 frontends, 100 fullstack y 50 backends.
@@ -16,4 +16,12 @@ Para que los developers no se alcen y se queden al menos hasta que termine el pr
 
 Finalmente la consultora ha estimado que debido a los retrasos los clientes se van a enfadar y van a regatear el precio ✂️. Han previsto que van a bajar un 1% del precio por cada 100 horas extras que se hagan de más.
 
-¿A qué proyecto debe vender la consultora a los desarrolladores incautos para obtener el máximo beneficio 🤑?
+Cuando Stephen, el jefe del departamento, ejecute el programa debería ver las 3 ofertas que son más rentables para la empresa con el siguiente formato:
+
+
+Date: 25 January 1995
+Company              | Income  | Expenses |   Benefit   
+---------------------|:-------:|:--------:|:------------:
+Endoso sobrecostes   | 100.000 |  30.000  | 70.000,00  €
+Piedra negra         | 250.000 |  40.000  | 210.000,00 €
+Banquio              | 400.000 |  12.000  | 388.000,00 €

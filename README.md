@@ -5,6 +5,8 @@ Al final terminó desvariando en esto.
 
 Cada nivel añade ciertas dificultades al enunciado anterior. La puedes resolver incrementalmente o ir directamente al nivel que te interese.
 
-* [Entry level](statements/entry-level.md)
-* [Mid level](statements/mid-level.md)
+* [Starter level](statements/starter.md): Para practicar TDD y diseño
+* [Intermediate level](statements/intermediate.md): Para practicar arquitectura y esquivar enemigos del testing
+* [Advanced level](statements/advanced.md): Para pelear contra más enemigos del testing 
+
  
