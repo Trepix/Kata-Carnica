@@ -1,0 +1,54 @@
+{
+    "projects": [
+        {
+            "name": "Endoso sobrecostes",
+            "sector": "Empresa eléctrica",
+            "profiles": {
+                "fullstack" : {
+                    "salary": "5000$",
+                    "quantity" : 20
+                },
+                "backend" : {
+                    "salary": "4500$",
+                    "quantity" : 30
+                }
+            }
+        },
+        {
+            "name": "Piedra negra",
+            "sector": "Instituciones Públicas",
+            "profiles": {
+                "fullstack" : {
+                    "salary": "4500€",
+                    "quantity" : 50
+                },
+                "frontend" : {
+                    "salary": "1200€",
+                    "quantity" : 1000
+                },
+                "devops-unicorn" : {
+                    "salary": "9000€",
+                    "quantity" : 10
+                }
+            }
+        },
+        {
+            "name": "Banquio",
+            "sector": "Banca",
+            "profiles": {
+                "fullstack" : {
+                    "salary": "6000£",
+                    "quantity" : 50
+                },
+                "backend" : {
+                    "salary": "5000£",
+                    "quantity" : 20
+                },
+                "frontend" : {
+                    "salary": "1000£",
+                    "quantity" : 2
+                }
+            }
+        }
+    ]
+}

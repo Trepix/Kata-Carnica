@@ -5,8 +5,9 @@ Al final terminó desvariando en esto.
 
 Cada nivel añade ciertas dificultades al enunciado anterior. La puedes resolver incrementalmente o ir directamente al nivel que te interese.
 
-* [Starter level](statements/starter.md): Para practicar TDD y diseño
+* [Starter level](statements/starter.md): Para practicar TDD
 * [Intermediate level](statements/intermediate.md): Para practicar arquitectura y esquivar enemigos del testing
 * [Advanced level](statements/advanced.md): Para pelear contra más enemigos del testing 
+* [Proficiency level](statements/proficiency.md): Para trabajar diseño y OOP
 
  
