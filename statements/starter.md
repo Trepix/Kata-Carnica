@@ -3,7 +3,7 @@
 Una consultora cárnica 🍖 ha abierto unas nuevas oficinas en Barcelona para atraer a las empresas del sector IT y conseguir que les contraten para sus proyectos. Las nuevas oficinas tienen una capacidad de 200 empleados que en ningún concepto se pueden superar ya que con este tema es muy difícil engañar a los inspectores de trabajo 🕵.
 Han decidido ir en busca de incautos y han fichado a 50 frontends, 100 fullstack y 50 backends.
 
-Una vez engañados tienen que decidir en qué proyecto quieren invertir esos developers. Para ello estudian las ofertas que les han llegado de diferentes proyectos y a cuanto pagan cada perfil 💰. Como el proyecto es cerrado el precio por developer no varía en función de las horas que vayan a hacer. Para este ejercicio nos bastará saber a qué sector pertenece el proyecto.
+Una vez engañados tienen que decidir en qué proyecto quieren invertir esos developers. Para ello estudian las ofertas que les han llegado de diferentes proyectos y a cuanto pagan por cada perfil 💰. Como el proyecto es cerrado el precio por developer no varía en función de las horas que vayan a hacer. Para este ejercicio nos bastará saber a qué sector pertenece el proyecto.
 
  €/Dev       | Empresa Eléctrica | Instituciones Públicas | Banca
  ------------|:-----------------:|:----------------------:|:-----:
